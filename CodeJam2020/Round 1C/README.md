@@ -1,4 +1,6 @@
 Problem - OverExcitedFan
+
+
 Today will be the day—today will be the day that you finally get a picture with Peppurr the cat!
 
 It has just been announced that Peppurr will be touring your city. The city has infinitely many infinitely-long streets running north-south and infinitely many infinitely-long streets running east-west. An intersection is any point at which a north-south street and an east-west street meet. From any given intersection, the closest intersection in each of the four directions (north, east, south and west) is exactly one block away.
